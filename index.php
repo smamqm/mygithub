@@ -1,8 +1,8 @@
 <html>
 	<head>
 		<meta charset="utf-8"/>
-	<title>LQ的个人博客</title>
-		
+		<title>LQ的个人博客</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
 	</head>
 	<body>
 		<div id="main">

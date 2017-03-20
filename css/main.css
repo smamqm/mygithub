@@ -13,6 +13,7 @@ body{
 	background-color:#101010;	
 }
 #menu li{
+	list-style-type: none;
 	float: left;
 	font-size: 14px;
 	margin-left: 50%;
