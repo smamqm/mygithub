@@ -10,6 +10,7 @@ body{
 	width: 100%;
 }
 #menu{
+	height: 10%;
 	background-color:#101010;	
 }
 #menu li{
@@ -18,7 +19,12 @@ body{
 	font-size: 14px;
 	margin-left: 50%;
 }
-#logo{
+.logo{
 	color: white;
 	font-size: 24px;
+}
+#menu a{
+	color: #9d9d9d;
+    position: relative;
+    display: block;
 }
