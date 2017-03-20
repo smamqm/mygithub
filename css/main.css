@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
+body{
+	width: 100%;
+}
+#main{
+	width: 100%;
+}
+#menu{
+	background-color:#101010;	
+}
+#menu li{
+	float: left;
+	font-size: 14px;
+	margin-left: 50%;
+}
+#logo{
+	color: white;
+	font-size: 24px;
+}
