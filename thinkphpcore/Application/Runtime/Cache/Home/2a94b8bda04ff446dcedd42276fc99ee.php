@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <!-- 博客模版来自http://baijunyao.com/ 感谢 http://baijunyao.com/提供的开源项目：http://baijunyao.com/article/105 github:https://github.com/baijunyao/thinkphp-bjyadmin -->
 <html lang="en">
 
