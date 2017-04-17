@@ -1,2 +1,2 @@
 <?php
-	require("thinkphpcore/index.php");
+	require("./thinkphpcore/index.php");
