@@ -18,8 +18,8 @@ if(version_compare(PHP_VERSION,'5.3.0','<'))  die('require PHP > 5.3.0 !');
 define('APP_DEBUG',true);
 
 define('BLOG_IMG_URL','./Application/Public/image');
-define('BLOG_CSS_URL','/Application/Public/css');
-define('BLOG_JS_URL','/Application/Public/js');
+define('BLOG_CSS_URL','./Application/Public/css');
+define('BLOG_JS_URL','./Application/Public/js');
 
 // 定义应用目录
 define('APP_PATH','./Application/');
