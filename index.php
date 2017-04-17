@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 
 // 应用入口文件
-echo "<h1>index2</h1>";
+
 // 检测PHP环境
 if(version_compare(PHP_VERSION,'5.3.0','<'))  die('require PHP > 5.3.0 !');
 
@@ -20,8 +20,6 @@ define('APP_DEBUG',true);
 define('BLOG_IMG_URL','thinkphpcore/Application/Public/image');
 define('BLOG_CSS_URL','thinkphpcore/Application/Public/css');
 define('BLOG_JS_URL','thinkphpcore/Application/Public/js');
-
-echo "url: ".BLOG_CSS_URL;
 
 // 定义应用目录
 define('APP_PATH','thinkphpcore/Application/');
