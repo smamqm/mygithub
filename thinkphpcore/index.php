@@ -21,12 +21,13 @@ define('BLOG_IMG_URL','./Application/Public/image');
 define('BLOG_CSS_URL','./Application/Public/css');
 define('BLOG_JS_URL','./Application/Public/js');
 
+echo "url: ".BLOG_CSS_URL;
+
 // 定义应用目录
 define('APP_PATH','./Application/');
 
 // 引入ThinkPHP入口文件
 require './ThinkPHP/ThinkPHP.php';
 
-echo "url: ".BLOG_CSS_URL;
 
 // 亲^_^ 后面不需要任何代码了 就是如此简单
