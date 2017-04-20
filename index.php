@@ -9,7 +9,7 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
-// 应用入口文件
+// 应用入口文件应用入口文件应用入口文件
 // 检测是否是新安装
 if(file_exists("./Public/install") && !file_exists("./Public/install/install.lock")){
 	// 组装安装url
