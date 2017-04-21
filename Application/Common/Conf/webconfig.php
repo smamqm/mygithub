@@ -16,8 +16,8 @@ return array(
     'IMAGE_TITLE_ALT_WORD'      =>  'LQ的博客', //图片默认title和alt
 
 //*************************************水印设置****************************************
-    'WATER_TYPE'                =>  '1',           //水印类型 0:不使用水印 1:文字水印 2:图片水印 3:文字和图片水印同时使用
-    'TEXT_WATER_WORD'           =>  'baijunyao.com',      //文字水印内容
+    'WATER_TYPE'                =>  '0',           //水印类型 0:不使用水印 1:文字水印 2:图片水印 3:文字和图片水印同时使用
+    'TEXT_WATER_WORD'           =>  'LQ的博客',      //文字水印内容
     'TEXT_WATER_TTF_PTH'        =>  './Public/static/font/ariali.ttf',   //文字水印字体路径
     'TEXT_WATER_FONT_SIZE'      =>  '15', //文字水印文字字号
     'TEXT_WATER_COLOR'          =>  '#008CBA',     //文字水印文字颜色
