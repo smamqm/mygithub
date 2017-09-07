@@ -42,6 +42,10 @@ return array(
     'GITHUB_CLIENT_SECRET'      =>  '', // github登录SECRET
     'SOHU_API_KEY'              =>  '',         // 搜狐网登录API KEY
     'SOHU_SECRET'               =>  '',          // 搜狐网登录SECRT
+    
+    
+    'SALESFORCE_API_KEY'        =>  '',         // Salesforce API KEY
+    'SALESFORCE_SECRET'         =>  '',          // Salesforce SECRT
 //***********************************其他第三方接口****************************************
     'WEB_STATISTICS'            =>  '',       // 第三方统计代码
     'BAIDU_SITE_URL'            =>  '',       // 百度推送site提交接
