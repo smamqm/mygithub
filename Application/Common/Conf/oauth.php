@@ -104,4 +104,11 @@ return array(
         'APP_SECRET'    => C('SOHU_SECRET'), //应用注册成功后分配的KEY
         'CALLBACK'      => URL_CALLBACK . 'sohu',
     ),
+    
+    //SALESFORCE配置
+    'THINK_SDK_SALESFORCE'    => array(
+        'APP_KEY'       => C('SALESFORCE_API_KEY'), //应用注册成功后分配的 APP ID
+        'APP_SECRET'    => C('SALESFORCE_SECRET'), //应用注册成功后分配的KEY
+        'CALLBACK'      => URL_CALLBACK . 'sohu',
+    ),
 );
